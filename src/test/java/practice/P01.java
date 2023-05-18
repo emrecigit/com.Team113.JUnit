@@ -8,7 +8,7 @@ public class P01 {
     @Before // Her testten once 1 kere calisir
     @AfterClass // Tum testlerden sonra 1 kere calisir
     @After // Her testten sonra 1 kere calisir
-    @Test // Yapacagimiz test kodlarinin yer aldigi kisim
+    @Test // Yapacagimiz test kodlarinin yer aldigi kisimdir
     */
 
     @Test
